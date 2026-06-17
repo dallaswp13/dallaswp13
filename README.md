@@ -1,3 +1,11 @@
+<!--
+  This is your GITHUB PROFILE README.
+  It renders at the top of github.com/dallaswp13.
+  To use it: create a new repo named EXACTLY "dallaswp13" (same as your username),
+  make it Public, add a README.md, and paste this content in.
+  Replace each (link) with the real repo URL once your project repos are named.
+-->
+
 # Hi, I'm Dallas Plumley 👋
 
 ### AI Solutions Engineer · I help businesses deploy AI that actually gets used
@@ -15,11 +23,12 @@ I build production AI systems — LLM apps, RAG pipelines, and agents — and tr
 
 ## 🔧 Featured Projects
 
-| Project | What it does | Built with |
-|---------|--------------|------------|
-| **[RAG Knowledge Base & Retrieval System](link)** | Cloud platform to train on and query a private knowledge base with embeddings-based semantic search | Supabase · Vercel · embeddings |
-| **[Hermes — Personal AI Agent](link)** | An LLM agent wired into iMessage for conversational task automation and natural-language retrieval | LLM agent · iMessage · tool calling |
-| **[AI Health & Fitness Coach](link)** | Generates personalized diet and exercise plans from your fitness goals via LLM-driven recommendations | LLM prompting · personalization |
+| Project | What it does | Built with | Links |
+|---------|--------------|-----------|-------|
+| **fleet-portal** | Multilingual AI support agent + fleet database serving 1,000+ drivers — cut first response from ~5 min to ~5 sec | TypeScript · Anthropic API · MaaS360 | [Code](https://github.com/dallaswp13/fleet-portal) · [Live](https://fleet-portal-navy.vercel.app/) |
+| **company-brain** | Cloud RAG platform — train on and query a private knowledge base with semantic search | TypeScript · Supabase · Vercel | [Code](https://github.com/dallaswp13/company-brain) · [Live](https://brain-flax-zeta.vercel.app/) |
+| **vitalog** | AI health coach — generates personalized diet & exercise plans from your goals | JavaScript · LLM | [Code](https://github.com/dallaswp13/vitalog) · [Live](https://www.myvitalog.com/) |
+| **hermes-agent** | Personal AI agent wired into iMessage for conversational automation | Python · LLM agent | [Code](https://github.com/dallaswp13/hermes-agent) |
 
 ---
 
