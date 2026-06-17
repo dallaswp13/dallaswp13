@@ -1,14 +1,6 @@
-<!--
-  This is your GITHUB PROFILE README.
-  It renders at the top of github.com/dallaswp13.
-  To use it: create a new repo named EXACTLY "dallaswp13" (same as your username),
-  make it Public, add a README.md, and paste this content in.
-  Replace each (link) with the real repo URL once your project repos are named.
--->
-
 # Hi, I'm Dallas Plumley 👋
 
-### AI Solutions Engineer · I help businesses deploy AI that actually gets used
+### AI Solutions Engineer · Turning AI capability into practical, working tools
 
 I build production AI systems — LLM apps, RAG pipelines, and agents — and train the people who use them. Self-taught builder with a Cognitive Science background: I turn what AI *can* do into what a business *needs*, then make sure teams can run it without me.
 
@@ -48,4 +40,4 @@ I build production AI systems — LLM apps, RAG pipelines, and agents — and tr
 
 ## ⚡ How I work
 
-I'm an applied / forward-deployed builder, not an ML researcher. My edge is shipping real AI software *fast* with modern tools — and getting non-technical teams to actually adopt it. If your team is trying to operationalize AI, let's talk.
+I'm an applied / forward-deployed builder, not an ML researcher. My edge is shipping real AI software *fast* with modern tools — and getting non-technical teams up and running on it. If your team is trying to operationalize AI, let's talk.
